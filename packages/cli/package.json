@@ -19,7 +19,7 @@
     "debug": "^4.3.1",
     "express": "^4.17.1",
     "inquirer": "^6.3.1",
-    "isomorphic-fetch": "^3.0.0",
+    "node-fetch-with-proxy": "0.1.4",
     "lighthouse": "7.3.0",
     "lighthouse-logger": "1.2.0",
     "open": "^7.1.0",
